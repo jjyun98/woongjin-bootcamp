@@ -58,12 +58,6 @@ MaxMind에서 GeoLite2-City 데이터베이스를 다운로드하여 `data/` 폴
 - 캠페인 전후 비교
 - 통계적 유의성 검정 (카이제곱, 비율 검정)
 
-### 2. quantitative_analysis.ipynb
-- **핵심 지표**: 세션당 페이지뷰, Product 전환율, 일평균 세션 수
-- **비즈니스 임팩트**: 광고비 절감액, ROI, Paid 의존도 변화
-- **통계적 유의성**: T-test, Effect Size (Cohen's d, Cohen's h)
-- 종합 대시보드 및 최종 요약표
-
 ## 주요 발견사항
 
 - 캠페인 종료 후 Direct + Organic 트래픽이 유의하게 증가
