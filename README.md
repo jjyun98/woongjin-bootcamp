@@ -8,7 +8,6 @@
 api_project/
 ├── get_logs.ipynb              # API를 통한 로그 데이터 수집
 ├── project_main.ipynb          # 메인 분석 (EDA, 시각화, 통계검정)
-├── quantitative_analysis.ipynb # 정량적 지표 분석
 ├── .env                        # API Key (보안 - git 제외)
 ├── .env.example               # 환경변수 템플릿
 └── data/
